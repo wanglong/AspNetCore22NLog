@@ -1,0 +1,16 @@
+D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\WebAppGrapefruit.WebApi.exe
+D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\obj\Debug\netcoreapp2.2\WebAppGrapefruit.WebApi.csproj.CoreCompileInputs.cache
+D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\obj\Debug\netcoreapp2.2\WebAppGrapefruit.WebApi.RazorAssemblyInfo.cache
+D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\obj\Debug\netcoreapp2.2\WebAppGrapefruit.WebApi.RazorAssemblyInfo.cs
+D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\obj\Debug\netcoreapp2.2\WebAppGrapefruit.WebApi.AssemblyInfoInputs.cache
+D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\obj\Debug\netcoreapp2.2\WebAppGrapefruit.WebApi.AssemblyInfo.cs
+D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\obj\Debug\netcoreapp2.2\WebAppGrapefruit.WebApi.RazorTargetAssemblyInfo.cache
+D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\nlog.config
+D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\WebAppGrapefruit.WebApi.deps.json
+D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\WebAppGrapefruit.WebApi.runtimeconfig.json
+D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\WebAppGrapefruit.WebApi.runtimeconfig.dev.json
+D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\WebAppGrapefruit.WebApi.dll
+D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\WebAppGrapefruit.WebApi.pdb
+D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\obj\Debug\netcoreapp2.2\WebAppGrapefruit.WebApi.dll
+D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\obj\Debug\netcoreapp2.2\WebAppGrapefruit.WebApi.pdb
+D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\obj\Debug\netcoreapp2.2\WebAppGrapefruit.WebApi.csprojAssemblyReference.cache
